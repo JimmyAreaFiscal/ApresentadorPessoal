@@ -1,3 +1,18 @@
-My name is Jimmy. I'm tax auditor, data analysis and data science specialist.
-Also, I'm a python programmer and actually studying to be AI engineering. 
-I love motorbikes, science, and AI.
+Meu nome é Jimmy.
+
+Sou um brasileiro nascido em 1º de julho de 1995 em New Jersey - EUA, e me mudei para o Brasil (Rio de Janeiro) em 2000.
+Estudei no Colégio Naval e me formei na Escola Naval como oficial da Marinha. Servi no Corpo de Fuzileiros Navais até 2021, como Primeiro-Tenente como artilheiro.
+
+Desde então, mudei de carreira para Auditor Fiscal na SEFAZ-RR (Roraima), e morei em Manaus (AM), Boa Vista (RR) e Campinas (SP).
+
+Me especializei em Direito Tributário pela PUC-RS e me tornei profissional de TI atuando como analista de dados fiscais e cientista de dados. Dentre os projetos elaborados no meio profissional, posso citar:
+
+1. Banco de dados de documentos fiscais (CT-e, MDF-e, DIMP, NF3-e, BP-e)
+2. Análise e detecção de empresas noteiras (empresas fantasmas), inclusive com uso de modelos preditivos
+3. Análise de renúncias fiscais do Estado de Roraima 
+
+Além disso, estou cursando Tecnólogo em Ciência de Dados pela Mackenzie EAD, além dos inúmeros cursos e livros sobre o tema de IA, engenharia de software, engenharia de dados e ciência de dados. 
+
+Da parte familiar, sou unido estavelmente com a Fernanda Beatriz Machado e possuo duas filhotas lindas: Tulipa e Lizzie. Além disso, meus pais permanecem no Rio de Janeiro, junto com quase a totalidade da minha família direta. 
+
+Da parte pessoal, sou apaixonado por motovelocidade e por estudos. Tenho o costume de andar em circuitos fechados (autódromo) e vontade de aprender a melhorar cada vez mais. Além disso, gosto das áreas de estudo de economia, engenharia de software e de IA, direito, entre outros. Sou um autodidata. 
